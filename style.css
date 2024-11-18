@@ -1,0 +1,28 @@
+body { 
+    background-image: url('Images/Travis.jpeg'); 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+}
+
+.card{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+.card-header{
+    margin: auto;
+}
+
+.card-body{
+    margin: auto;
+}
+
+.Utopia{
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
